@@ -1,0 +1,51 @@
+2021-12-15 20:11:03:936 main3.dashboardPresensi:41 DEBUG - Ini pesan DEBUG
+2021-12-15 20:11:03:936 main3.dashboardPresensi:42 INFO  - Ini pesan INFO
+2021-12-15 20:11:03:936 main3.dashboardPresensi:43 WARN  - Ini pesan WARN
+2021-12-15 20:11:03:936 main3.dashboardPresensi:44 ERROR - Ini pesan ERROR
+2021-12-15 20:11:03:952 main3.dashboardPresensi:45 FATAL - Ini pesan FATAL
+2021-12-15 20:18:40:790 com.github.sarxos.webcam.Webcam:1048 INFO  - WebcamDefaultDriver capture driver will be used
+2021-12-15 20:18:40:828 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDriver:112 DEBUG - Searching devices
+2021-12-15 20:18:41:422 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDriver:128 DEBUG - Found device Integrated Camera 0
+2021-12-15 20:18:41:422 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDriver:128 DEBUG - Found device OBS Virtual Camera 1
+2021-12-15 20:18:41:422 com.github.sarxos.webcam.Webcam:625 DEBUG - Setting new resolution 320x240
+2021-12-15 20:18:41:438 com.github.sarxos.webcam.WebcamPanel:827 DEBUG - Starting panel rendering and trying to open attached webcam
+2021-12-15 20:18:41:453 com.github.sarxos.webcam.WebcamLock:292 DEBUG - Lock Webcam Integrated Camera 0
+2021-12-15 20:18:41:460 com.github.sarxos.webcam.ds.cgt.WebcamOpenTask:36 INFO  - Opening webcam Integrated Camera 0
+2021-12-15 20:18:41:460 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDevice:307 DEBUG - Opening webcam device Integrated Camera 0
+2021-12-15 20:18:41:460 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDevice:316 DEBUG - Webcam device 0 starting session, size java.awt.Dimension[width=320,height=240]
+2021-12-15 20:18:42:076 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDevice:342 DEBUG - Webcam device session started
+2021-12-15 20:18:42:078 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDevice:368 DEBUG - Clear memory buffer
+2021-12-15 20:18:42:467 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDevice:374 DEBUG - Webcam device com.github.sarxos.webcam.ds.buildin.WebcamDefaultDevice@5b20bd21 is now open
+2021-12-15 20:18:42:468 com.github.sarxos.webcam.Webcam:308 DEBUG - Webcam is now open Integrated Camera 0
+2021-12-15 20:18:44:430 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDriver:112 DEBUG - Searching devices
+2021-12-15 20:18:44:671 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDriver:128 DEBUG - Found device Integrated Camera 0
+2021-12-15 20:18:44:676 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDriver:128 DEBUG - Found device OBS Virtual Camera 1
+2021-12-15 20:18:46:994 com.github.sarxos.webcam.WebcamShutdownHook:43 INFO  - Automatic Integrated Camera 0 deallocation
+2021-12-15 20:18:46:995 com.github.sarxos.webcam.Webcam:456 INFO  - Disposing webcam Integrated Camera 0
+2021-12-15 20:18:47:167 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDevice:425 DEBUG - Disposing webcam device Integrated Camera 0
+2021-12-15 20:18:47:168 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDevice:413 DEBUG - Closing webcam device
+2021-12-15 20:18:47:641 com.github.sarxos.webcam.WebcamPanel:867 DEBUG - Stopping panel rendering and closing attached webcam
+2021-12-15 20:18:47:641 com.github.sarxos.webcam.Webcam:482 DEBUG - Webcam disposed Integrated Camera 0
+2021-12-15 20:19:08:208 com.github.sarxos.webcam.Webcam:1048 INFO  - WebcamDefaultDriver capture driver will be used
+2021-12-15 20:19:08:239 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDriver:112 DEBUG - Searching devices
+2021-12-15 20:19:08:740 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDriver:128 DEBUG - Found device Integrated Camera 0
+2021-12-15 20:19:08:740 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDriver:128 DEBUG - Found device OBS Virtual Camera 1
+2021-12-15 20:19:08:740 com.github.sarxos.webcam.Webcam:625 DEBUG - Setting new resolution 320x240
+2021-12-15 20:19:08:756 com.github.sarxos.webcam.WebcamPanel:827 DEBUG - Starting panel rendering and trying to open attached webcam
+2021-12-15 20:19:08:756 com.github.sarxos.webcam.WebcamLock:292 DEBUG - Lock Webcam Integrated Camera 0
+2021-12-15 20:19:08:771 com.github.sarxos.webcam.ds.cgt.WebcamOpenTask:36 INFO  - Opening webcam Integrated Camera 0
+2021-12-15 20:19:08:771 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDevice:307 DEBUG - Opening webcam device Integrated Camera 0
+2021-12-15 20:19:08:771 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDevice:316 DEBUG - Webcam device 0 starting session, size java.awt.Dimension[width=320,height=240]
+2021-12-15 20:19:09:045 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDevice:342 DEBUG - Webcam device session started
+2021-12-15 20:19:09:046 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDevice:368 DEBUG - Clear memory buffer
+2021-12-15 20:19:09:804 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDevice:374 DEBUG - Webcam device com.github.sarxos.webcam.ds.buildin.WebcamDefaultDevice@5b20bd21 is now open
+2021-12-15 20:19:09:805 com.github.sarxos.webcam.Webcam:308 DEBUG - Webcam is now open Integrated Camera 0
+2021-12-15 20:19:11:750 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDriver:112 DEBUG - Searching devices
+2021-12-15 20:19:11:970 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDriver:128 DEBUG - Found device Integrated Camera 0
+2021-12-15 20:19:11:974 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDriver:128 DEBUG - Found device OBS Virtual Camera 1
+2021-12-15 20:19:14:245 com.github.sarxos.webcam.WebcamShutdownHook:43 INFO  - Automatic Integrated Camera 0 deallocation
+2021-12-15 20:19:14:263 com.github.sarxos.webcam.Webcam:456 INFO  - Disposing webcam Integrated Camera 0
+2021-12-15 20:19:14:373 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDevice:425 DEBUG - Disposing webcam device Integrated Camera 0
+2021-12-15 20:19:14:374 com.github.sarxos.webcam.ds.buildin.WebcamDefaultDevice:413 DEBUG - Closing webcam device
+2021-12-15 20:19:14:844 com.github.sarxos.webcam.WebcamPanel:867 DEBUG - Stopping panel rendering and closing attached webcam
+2021-12-15 20:19:14:844 com.github.sarxos.webcam.Webcam:482 DEBUG - Webcam disposed Integrated Camera 0
